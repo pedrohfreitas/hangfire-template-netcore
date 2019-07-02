@@ -19,7 +19,7 @@ namespace Administration.Presentation
         }
     }
 }
-###########
+
 <serviceAutoStartProviders>
        <add name="AutoStartProvider" type="Administration.Presentation.StartUp, Administration.Presentation" />
 </serviceAutoStartProviders>
